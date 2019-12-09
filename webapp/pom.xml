@@ -8,10 +8,8 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<groupId>poc.rcm</groupId>
 	<artifactId>webapp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
 
 	<name>suma_wsdl</name>
 	<url>http://maven.apache.org</url>
