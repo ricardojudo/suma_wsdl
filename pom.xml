@@ -159,7 +159,7 @@
 	</dependencyManagement>
 	<properties>
 		<apache-cxf.version>2.5.2</apache-cxf.version>
-		<springframework.version>3.1.0.RELEASE</springframework.version>
+		<springframework.version>5.2.2.RELEASE</springframework.version>
 	</properties>
 	<modules>
 		<module>api</module>
